@@ -8,7 +8,7 @@ function HeroSection() {
     <section className="flex flex-col sm:flex-row items-center justify-between px-6 py-12">
       <div className="max-w-3xl place-self-center sm:text-left text-white">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-center sm:text-left">
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-purple-500 to-pink-500">Hello, I'm {" "} </span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-purple-500 to-pink-500">Hello, I&apos;m {" "} </span>
           <span className="text-4xl sm:text-5xl lg:text-6xl font-bold text-center sm:text-left">
             <TypeAnimation
       sequence={[
